@@ -54,7 +54,7 @@ ul.joke-css li:nth-child(even) {
   float: right;
   margin-bottom: 15px;
 }
-div.page1 > footer {
+.page1 > footer {
   clear:both;
   padding: 10px;
   min-height: 50px;
